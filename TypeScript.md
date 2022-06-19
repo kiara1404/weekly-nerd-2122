@@ -106,6 +106,6 @@ Happy coding!
 
 
 ## Sources 
-[](https://medium.com/swlh/intro-to-typescript-63bd15c2cd0e)
-[](https://www.freecodecamp.org/news/an-introduction-to-typescript/)
-[](https://www.typescriptlang.org/)
+https://medium.com/swlh/intro-to-typescript-63bd15c2cd0e
+https://www.freecodecamp.org/news/an-introduction-to-typescript
+https://www.typescriptlang.org/
